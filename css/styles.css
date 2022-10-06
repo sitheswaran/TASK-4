@@ -1,0 +1,31 @@
+*{padding:0;
+  margin:5px;
+ }
+ 
+ .container {padding-top:100px;
+	         padding-left:200px;
+             width:970;
+			}
+
+ 
+ .img {display:flex;
+       background-color:#E0F7FA;
+	   }
+ 
+ .images h3{padding-left:15px;} 
+ .images h5{padding-left:15px;
+            background-color:white;
+            color:gray;
+			} 
+ .images {background-color:white;}
+ 
+ 
+ .im h3{padding-left:15px;} 
+ .im h5{padding-left:15px;
+            color:gray;} 
+ .im {background-color:white;}	
+	
+ .pit h3{padding-left:15px;} 
+ .pit h5{padding-left:15px;
+            color:gray;} 		
+ .pit {background-color:white;}			
